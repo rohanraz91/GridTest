@@ -6,7 +6,7 @@ import java.util.HashMap;
  *on the map(world)
  */
 public class EventGenerator {
-
+	
 	private HashMap<Location, Event> eventMap=new HashMap<>();
 	/**
 	 * To generate random new Events associated
